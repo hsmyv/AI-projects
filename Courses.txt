@@ -1,0 +1,37 @@
+Next Steps
+
+As the next step,  you are encouraged to explore the following courses if you are enrolled in the AI Engineering PC:
+
+Introduction to Deep Learning & Neural Networks with Keras
+https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer
+
+
+Deep Learning with Keras and Tensorflow
+https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ai-engineer
+
+
+Introduction to Neural Networks and Pytorch
+https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer
+
+
+Deep Learning with PyTorch
+https://www.coursera.org/learn/advanced-deep-learning-with-pytorch?specialization=ai-engineer
+
+
+
+Generative AI and LLMs: Architecture and Data Preparation
+https://www.coursera.org/learn/generative-ai-llm-architecture-data-preparation?specialization=ai-engineer
+
+
+
+If you are enrolled in the Data Science PC, you are encouraged to explore the following courses:
+
+Generative AI: Elevate Your Data Science Career
+https://www.coursera.org/enroll/learn/generative-ai-elevate-your-data-science-career/paidmedia?specialization=ibm-data-science
+
+Data Scientist Career Guide and Interview Preparation
+https://www.coursera.org/enroll/learn/career-guide-and-interview-prep-for-data-science-pc/paidmedia?specialization=ibm-data-science
+
+We also encourage you to leave your feedback and rate this course so that we can continue to improve our content. 
+
+Good luck!
